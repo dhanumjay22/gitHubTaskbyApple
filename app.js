@@ -26,7 +26,7 @@ myApp.controller('mainController', ['$scope', '$http', '$filter', function($scop
             $scope.userDetails = false;
             $scope.noUsers = false;
         }
-        if ($scope.gitUserName.length > 0 && ($scope.currentUser != $scope.filteredName)) {
+        if ($scope.gitUserName.length > 0 && (($scope.currentUser != $scope.filteredName) || !$scope.userDetails) ){
             returnValue = true;
         }
         return returnValue;
