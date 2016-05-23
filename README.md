@@ -11,4 +11,4 @@ Descriptiom:
 5) As soon as you see user detaisl, I am hiding "Ger Users" button, it will be enabled only if input field changes.
 5) Only if number of public repositories are more than 0 then only "Get repositories" button will be showed.
 6) as soon as repositories are obtained, i am hiding "Get repositories" button.
-7) If you change input field at this point, I am hiding both user details and repositories. 
+7) If you change input field at this point, I am hiding both user details and repositories.  
