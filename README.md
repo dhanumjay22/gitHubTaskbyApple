@@ -2,7 +2,7 @@
 
 Run index file to see the page.
 
-Descriptiom:
+Descriptiom: 
 
 1) When input field is empty, "Get Users" button will be hidden.
 2) As soon as you enter something in inputfiled "Get Users" button will be enabled and you can see your entered text also.
